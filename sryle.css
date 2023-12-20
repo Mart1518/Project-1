@@ -1,0 +1,382 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text {
+    display: flex;
+    background-color: black;
+}
+.text p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px 20px 10px 20px;
+    color: white;
+}
+#img123{
+    margin-left: 870px;
+    margin-bottom: 5px;
+}
+#Logo{
+    background-color:#009688 ;
+}
+.img{
+    height: 550px;
+    background-image: url(/img/photo_2023-11-20_20-31-34.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.tact{
+    width: 220px;
+    height: 55px;
+    background-color: black;
+    margin-left: 25px;
+    margin-top: -70px;
+    color: white;
+}
+.tact h2{
+    margin-left:17px;
+    padding-top: 15px;
+    font-weight: 100;
+}
+.classi{
+    margin-top: 80px;
+    text-align: center;
+}
+#h111{
+    padding-bottom: 30px;
+    font-weight: 100;
+}
+.classi p{
+    font-size: 18px;
+}
+.AVA{
+    display: flex;
+    margin-top: 50px;
+    width: 95%;
+    margin-left: 130px;
+    padding-bottom:70px ;
+}
+#ava{
+   width: 180px;
+   border-radius: 50%;
+}
+.AVA h1{
+    padding-right: 180px;
+}
+.ava p{
+    padding-top: 10px;
+    margin-left: 50px;
+}
+.ava h1{
+    font-weight: 100;
+}
+#j{
+    margin-left: 20px;
+}
+#k{
+    margin-left: 20px;
+}
+#f{
+    margin-left: 70px;
+}
+.bcr{
+    width: 99%;
+    height: 600px;
+    background-color: rgb(67, 66, 66);
+}
+.te{
+    padding-top: 70px;
+    color: white;
+    width: 330px;
+    height: 500px;
+    margin-left: 20px;
+    
+}
+.te h1{
+    font-weight: 100;
+    margin-bottom: 30px;
+}
+.te p{
+    font-size: 18px;
+    font-weight: 100;
+} 
+.bcr{
+    display: flex;
+}
+.img123{
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 30px;
+    height: 82%;
+    display: flex;
+}
+.img11{
+    margin-right: 13px;
+    font-weight: 100;
+    
+}
+.img123 h1{
+    font-weight: 100;
+    font-size: 28px;;
+    padding: 7px;
+    margin-left: 10px;
+    font-weight: 100;
+}
+.img123 h3{
+    font-weight: 100;
+    padding: 7px;
+    font-size: large;
+    margin-left: 10px;
+    font-weight: 100;
+}
+.textyol{
+    text-align: center;
+    margin-top: 60px;
+    padding-bottom: 45px;
+    font-weight: 100;
+}
+.textyol h1{
+    font-weight: 100;
+    margin-bottom: 30px;
+    font-weight: 100;
+}
+.textyol p{
+    font-size: larger;
+}
+.glavn{
+    height: 550px;
+    width: 98%;
+    margin-left: 20px;
+    display: flex;
+}
+.basic{
+    padding-right: 50px;
+}
+.basic h1{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    padding: 25px 180px 25px 180px;
+    width: min-content;
+    font-weight: 100;
+    border: 1px solid gray;
+}
+.basic h3{
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 430px;
+    font-weight: 100;
+
+}
+.mon1{
+    padding-top: 15px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 100;
+    font-weight: 100;
+}
+.mon11{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: 100;
+}
+.galka{
+display: flex;
+background-color: rgb(220, 217, 217);
+width:260px ;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 170px;
+border: 1px solid gray;
+}
+.lollol{
+    padding-top: 5px;
+    padding-left: 2px;
+    font-size: 17px;
+    color: white;
+    font-weight: 100;
+    background-color:#009688;
+    padding-right: 10px;
+}
+
+
+.pop{
+    padding-right: 50px;
+}
+.pro h1{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    padding: 25px 193px 25px 193px;
+    width: min-content;
+    font-weight: 100;
+    border: 1px solid gray;
+}
+.pro h3{
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 430px;
+    font-weight: 100;
+
+}
+.mom1{
+    padding-top: 15px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 100;
+    font-weight: 100;
+}
+.mom11{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: 100;
+}
+.pop{
+display: flex;
+background-color: rgb(220, 217, 217);
+width:210px ;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 170px;
+border: 1px solid gray;
+}
+.lolp{
+    padding-top: 5px;
+    padding-left: 2px;
+    font-size: 17px;
+    color: white;
+    font-weight: 100;
+    background-color:#009688;
+    padding-right: 20px;
+}
+
+.premium{
+    padding-left: 50px;
+}
+.premium h1{
+    background-color: black;
+    color: white;
+    font-weight: 100;
+    padding: 25px 193px 25px 119px;
+    width: min-content;
+    font-weight: 100;
+    border: 1px solid gray;
+}
+.premium h3{
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    width: 430px;
+    font-weight: 100;
+
+}
+.mot1{
+    padding-top: 15px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 100;
+    font-weight: 100;
+}
+.mot11{
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    border-bottom: 1px solid gray;
+    width: 430px;
+    text-align: center;
+    padding-bottom: 15px;
+    font-weight: 100;
+}
+.joj{
+display: flex;
+background-color: rgb(220, 217, 217);
+width:260px ;
+padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 170px;
+border: 1px solid gray;
+}
+.mom{
+    padding-top: 5px;
+    padding-left: 2px;
+    font-size: 17px;
+    color: white;
+    font-weight: 100;
+    background-color:#009688;
+    padding-right: 10px;
+}
+.teckst{
+    background-color: blue;
+    height: 350px;
+    margin-top: 0px;
+    width: 40%;
+    margin-left: 30px;
+}
+.kort{
+    height: 400px;
+    background-color: rgb(191, 191, 191);
+    padding-top: 100px;
+}
+.con{
+    padding-bottom: 15px;
+    font-weight: 100;
+}
+.pagog{
+    font-size: large;
+}
+.fit{
+    margin-top: -5px;
+    height: 270px;
+    background-color: black;
+}
+.fott{
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    padding-top: 50px;
+    font-family:sans-serif;
+    font-size:small;
+}
+.iimmgg{
+    text-align: center;
+    margin-top: 20px;
+}
+#ppp{
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    font-size: medium;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
